@@ -4,4 +4,4 @@ Description
 
 ## Subsection
 
-Description
+More detailed description
